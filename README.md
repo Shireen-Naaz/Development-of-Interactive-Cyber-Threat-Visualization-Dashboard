@@ -1,4 +1,4 @@
-CyberNexus: Interactive Cyber Threat Visualization Dashboard
+# CyberNexus: Interactive Cyber Threat Visualization Dashboard
 
 This repository contains the complete documentation, research, and project management assets for the CyberNexus platform.
 
